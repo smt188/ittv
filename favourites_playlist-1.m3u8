@@ -107,30 +107,7 @@ https://huhu.to/play/3941811814/index.m3u8
 https://huhu.to/play/4068339666/index.m3u8
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="" group-title="",SKY SPORT 24 |E
 https://huhu.to/play/366530165/index.m3u8
-<!--
-#EXTINF:-1, SKY SPORT 251 |H
-https://huhu.to/play/3457007787/index.m3u8
-#EXTINF:-1, SKY SPORT 252 |H
-https://huhu.to/play/2309864059/index.m3u8
-#EXTINF:-1, SKY SPORT 253 |H
-https://huhu.to/play/3033371595/index.m3u8
-#EXTINF:-1, SKY SPORT 254 |H
-https://huhu.to/play/116215771/index.m3u8
-#EXTINF:-1, SKY SPORT 255 |H
-https://huhu.to/play/999122539/index.m3u8
-#EXTINF:-1, SKY SPORT 256 |H
-https://huhu.to/play/2083331259/index.m3u8
-#EXTINF:-1, SKY SPORT 257 |H
-https://huhu.to/play/1095578891/index.m3u8
-#EXTINF:-1, SKY SPORT 258 |H
-https://huhu.to/play/3273499354/index.m3u8
-#EXTINF:-1, SKY SPORT 259 |H
-https://huhu.to/play/4269640554/index.m3u8
-#EXTINF:-1, SKY SPORT 260 |H
-https://huhu.to/play/1979292597/index.m3u8
-#EXTINF:-1, SKY SPORT 261 |H
-https://huhu.to/play/1218032133/index.m3u8
--->
+
 #EXTINF:-1 tvg-id="skysportaction.it" tvg-name="Sky Sport Action HD" tvg-logo="" group-title="" , SKY SPORT ACTION |H
 https://huhu.to/play/4279582293/index.m3u8
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena HD" tvg-logo="" group-title="",SKY SPORT ARENA |E
