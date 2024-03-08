@@ -107,6 +107,7 @@ https://huhu.to/play/3941811814/index.m3u8
 https://huhu.to/play/4068339666/index.m3u8
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="" group-title="",SKY SPORT 24 |E
 https://huhu.to/play/366530165/index.m3u8
+<!--
 #EXTINF:-1, SKY SPORT 251 |H
 https://huhu.to/play/3457007787/index.m3u8
 #EXTINF:-1, SKY SPORT 252 |H
@@ -129,7 +130,8 @@ https://huhu.to/play/4269640554/index.m3u8
 https://huhu.to/play/1979292597/index.m3u8
 #EXTINF:-1, SKY SPORT 261 |H
 https://huhu.to/play/1218032133/index.m3u8
-#EXTINF:-1, SKY SPORT ACTION |H
+-->
+#EXTINF:-1 tvg-id="skysportaction.it" tvg-name="Sky Sport Action HD" tvg-logo="" group-title="" , SKY SPORT ACTION |H
 https://huhu.to/play/4279582293/index.m3u8
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena HD" tvg-logo="" group-title="",SKY SPORT ARENA |E
 https://huhu.to/play/1669949351/index.m3u8
