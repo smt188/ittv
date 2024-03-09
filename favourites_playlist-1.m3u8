@@ -5,7 +5,7 @@ https://huhu.to/play/1391881073/index.m3u8
 https://huhu.to/play/723356054/index.m3u8
 #EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="" group-title="",Sky INVESTIGATION |H
 https://huhu.to/play/3359589117/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="=== DAZN SPORT Full HD ===" tvg-logo="" group-title="",Zona DAZN |H
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="DAZN SPORT HD" tvg-logo="" group-title="",Zona DAZN |H
 https://huhu.to/play/2208370483/index.m3u8
 #EXTINF:-1, tvg-name="HGTV HD", HGTV HD |E
 https://huhu.to/play/2839026329/index.m3u8
@@ -25,13 +25,13 @@ https://huhu.to/play/2404408005/index.m3u8
 https://huhu.to/play/3482779503/index.m3u8
 #EXTINF:-1, RAI 4K |E
 https://huhu.to/play/165585988/index.m3u8
-#EXTINF:-1 tvg-id="RSI La 1" tvg-name="RSI La 1" tvg-logo="https://i.imgur.com/j8ogbli.png" group-title="",RSI LA 1 |E
+#EXTINF:-1 tvg-id="RSILa1" tvg-name="RSI La 1" tvg-logo="" group-title="",RSI LA 1 |E
 https://huhu.to/play/4224106542/index.m3u8
-#EXTINF:-1 tvg-id="RSI La 1 +1" tvg-name="RSI La 1 +1" tvg-logo="https://i.imgur.com/j8ogbli.png" group-title="",RSI LA 1 +1 |H
+#EXTINF:-1 tvg-id="RSILa1" tvg-name="RSI La 1 +1" tvg-logo="" group-title="",RSI LA 1 +1 |H
 https://huhu.to/play/3579582219/index.m3u8
-#EXTINF:-1 tvg-id="RSI La 2" tvg-name="RSI La 2" tvg-logo="https://i.imgur.com/vm62h3t.png" group-title="",RSI LA 2 |E
+#EXTINF:-1 tvg-id="RSILa2" tvg-name="RSI La 2" tvg-logo="" group-title="",RSI LA 2 |E
 https://huhu.to/play/3160849150/index.m3u8
-#EXTINF:-1 tvg-id="RSI La 2 +2" tvg-name="RSI La 2 +2" tvg-logo="https://i.imgur.com/vm62h3t.png" group-title="",RSI LA 2 |H
+#EXTINF:-1 tvg-id="RSILa2" tvg-name="RSI La 2" tvg-logo="" group-title="",RSI LA 2 |H
 https://huhu.to/play/2466016731/index.m3u8
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte HD" tvg-logo="" group-title="",SKY ARTE |E
 https://huhu.to/play/36352637/index.m3u8
