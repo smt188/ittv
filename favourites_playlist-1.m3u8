@@ -19,9 +19,9 @@ https://huhu.to/play/4194838679/index.m3u8
 https://huhu.to/play/3345482023/index.m3u8
 #EXTINF:-1, EB GOMORRA STAGIONE 4 |H
 https://huhu.to/play/1967709495/index.m3u8
-#EXTINF:-1 tvg-id="history.hd.it" tvg-name="History HD" tvg-logo="" group-title="",HISTORY HD |E
+#EXTINF:-1 tvg-id="history.hd.it" tvg-name="History HD" tvg-logo="https://www.historychannel.it/themes/custom/emea/images/logos/history-logo.svg" group-title="",HISTORY HD |E
 https://huhu.to/play/2404408005/index.m3u8
-#EXTINF:-1 tvg-id="history.hd.it" tvg-name="History HD" tvg-logo="" group-title="",HISTORY HD |H
+#EXTINF:-1 tvg-id="history.hd.it" tvg-name="History HD" tvg-logo="https://www.historychannel.it/themes/custom/emea/images/logos/history-logo.svg" group-title="",HISTORY HD |H
 https://huhu.to/play/3482779503/index.m3u8
 #EXTINF:-1, RAI 4K |E
 https://huhu.to/play/165585988/index.m3u8
