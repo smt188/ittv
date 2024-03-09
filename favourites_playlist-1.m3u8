@@ -25,13 +25,13 @@ https://huhu.to/play/2404408005/index.m3u8
 https://huhu.to/play/3482779503/index.m3u8
 #EXTINF:-1, RAI 4K |E
 https://huhu.to/play/165585988/index.m3u8
-#EXTINF:-1 tvg-id="RSILa1" tvg-name="RSI La 1" tvg-logo="" group-title="",RSI LA 1 |E
+#EXTINF:-1 tvg-id="RSI.La1.ch" tvg-name="RSI La 1" tvg-logo="" group-title="",RSI LA 1 |E
 https://huhu.to/play/4224106542/index.m3u8
-#EXTINF:-1 tvg-id="RSILa1" tvg-name="RSI La 1 +1" tvg-logo="" group-title="",RSI LA 1 +1 |H
+#EXTINF:-1 tvg-id="RSI.La1.ch" tvg-name="RSI La 1" tvg-logo="" group-title="",RSI LA 1 +1 |H
 https://huhu.to/play/3579582219/index.m3u8
-#EXTINF:-1 tvg-id="RSILa2" tvg-name="RSI La 2" tvg-logo="" group-title="",RSI LA 2 |E
+#EXTINF:-1 tvg-id="RSI.La2.ch" tvg-name="RSI La 2" tvg-logo="" group-title="",RSI LA 2 |E
 https://huhu.to/play/3160849150/index.m3u8
-#EXTINF:-1 tvg-id="RSILa2" tvg-name="RSI La 2" tvg-logo="" group-title="",RSI LA 2 |H
+#EXTINF:-1 tvg-id="RSI.La2.ch" tvg-name="RSI La 2" tvg-logo="" group-title="",RSI LA 2 |H
 https://huhu.to/play/2466016731/index.m3u8
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte HD" tvg-logo="" group-title="",SKY ARTE |E
 https://huhu.to/play/36352637/index.m3u8
