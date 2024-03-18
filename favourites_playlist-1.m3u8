@@ -37,9 +37,9 @@ https://huhu.to/play/2466016731/index.m3u8
 https://huhu.to/play/36352637/index.m3u8
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte HD" tvg-logo="" group-title="",SKY ARTE |H
 https://huhu.to/play/749757784/index.m3u8
-#EXTINF:-1 tvg-id="skycinemahits.it" tvg-name="Sky Cinema Collection HD" tvg-logo="" group-title="",SKY CINEMA COLLECTION |E
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="" group-title="",SKY CINEMA COLLECTION |E
 https://huhu.to/play/1194395360/index.m3u8
-#EXTINF:-1 tvg-id="skycinemahits.it" tvg-name="Sky Cinema Collection HD" tvg-logo="" group-title="",SKY CINEMA COLLECTION |H
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="" group-title="",SKY CINEMA COLLECTION |H
 https://huhu.to/play/193483391/index.m3u8
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="",SKY CINEMA COMEDY |E
 https://huhu.to/play/1001661073/index.m3u8
@@ -57,13 +57,13 @@ https://huhu.to/play/1051515486/index.m3u8
 https://huhu.to/play/3037223781/index.m3u8
 #EXTINF:-1 tvg-id="skycinemapassion.it" tvg-name="Sky Cinema Romance HD" tvg-logo="" group-title="",SKY CINEMA ROMANCE |H
 https://huhu.to/play/3479578839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense HD" tvg-logo="" group-title="",SKY CINEMA SUSPENSE |H
+#EXTINF:-1 tvg-id="skycinemasuspence.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="" group-title="",SKY CINEMA SUSPENSE |H
 https://huhu.to/play/1669854887/index.m3u8
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema 1 HD" tvg-logo="" group-title="",SKY CINEMA UNO |H
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="" group-title="",SKY CINEMA UNO |H
 https://huhu.to/play/1512105147/index.m3u8
-#EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="Crime Investigation HD" tvg-logo="" group-title="",SKY INVESTIGATION |E
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="" group-title="",SKY INVESTIGATION |E
 https://huhu.to/play/1395871363/index.m3u8
-#EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="Crime Investigation HD" tvg-logo="" group-title="",SKY INVESTIGATION |H
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="" group-title="",SKY INVESTIGATION |H
 https://huhu.to/play/956716511/index.m3u8
 #EXTINF:-1 tvg-id="Primafila1.it" tvg-name="PrimaFila1.it" tvg-logo="",SKY PRIMAFILA 1 |E
 https://huhu.to/play/2736870250/index.m3u8
