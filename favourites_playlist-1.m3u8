@@ -3,7 +3,7 @@ https://huhu.to/play/723356054/index.m3u8
 #EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="" group-title="",Sky INVESTIGATION |H
 https://huhu.to/play/3359589117/index.m3u8
 #EXTINF:-1 tvg-id="zonadazn.it" tvg-name="DAZN SPORT HD" tvg-logo="" group-title="",Zona DAZN |H
-#https://huhu.to/play/2208370483/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 https://salamus2023.onlinehdhls.ru/ddy4/premium877/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="HGTV HD", HGTV HD |E
 https://huhu.to/play/2839026329/index.m3u8
