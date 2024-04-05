@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="discovery.hd.it" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="",Discovery HD |E
+#EXTINF:-1 tvg-id="discovery.it" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="",Discovery HD |E
 https://huhu.to/play/1391881073/index.m3u8
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="",Sky Cinema Comedy |H
 https://huhu.to/play/723356054/index.m3u8
