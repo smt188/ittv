@@ -7,7 +7,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium862/index.m3u8|Referer=https://clapliv
 https://huhu.to/play/3359589117/index.m3u8
 #EXTINF:-1 tvg-id="zonadazn.it" tvg-name="DAZN SPORT HD" tvg-logo="" group-title="",Zona DAZN | E
 https://webhdrus.onlinehdhls.ru/lb/premium877/index.m3u8|Referer=https://claplivehdplay.ru/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
-#plugin://plugin.video.madtitansports/play_video/eyJjb3VudCI6IDU2NiwgInR5cGUiOiAiaXRlbSIsICJ0aXRsZSI6ICJCVCBTcG9ydCAxIFVLIiwgInNwb3J0amV0ZXh0cmFjdG9ycyI6IFsiaHR0cHM6Ly9kLmRhZGR5bGl2ZWhkLnN4L3N0cmVhbS9zdHJlYW0tODc3LnBocCJdfQ==
 #EXTINF:-1 tvg-name="HGTV HD", HGTV HD |E
 https://huhu.to/play/2839026329/index.m3u8
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="",Sky Atlantic HD |H
@@ -66,7 +65,6 @@ https://huhu.to/play/1512105147/index.m3u8
 https://huhu.to/play/1395871363/index.m3u8
 #EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="" group-title="",SKY INVESTIGATION |H
 https://huhu.to/play/956716511/index.m3u8
-
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno HD" tvg-logo="" group-title="",SKY UNO |H
 https://webhdrus.onlinehdhls.ru/lb/premium881/index.m3u8|Referer=https://claplivehdplay.ru/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #EXTINF:-1 tvg-id="Primafila1.it" tvg-name="PrimaFila1.it" tvg-logo="",SKY PRIMAFILA 1 |E
@@ -107,7 +105,6 @@ https://huhu.to/play/3941811814/index.m3u8
 https://huhu.to/play/4068339666/index.m3u8
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="" group-title="",SKY SPORT 24 |E
 https://huhu.to/play/366530165/index.m3u8
-
 #EXTINF:-1 tvg-id="skysportaction.it" tvg-name="Sky Sport Action HD" tvg-logo="" group-title="" , SKY SPORT ACTION |H
 https://huhu.to/play/4279582293/index.m3u8
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena HD" tvg-logo="" group-title="",SKY SPORT ARENA |E
@@ -121,7 +118,7 @@ https://huhu.to/play/889289107/index.m3u8
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 HD" tvg-logo="" group-title="",SKY SPORT F1 |E
 https://huhu.to/play/1300958930/index.m3u8
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 HD" tvg-logo="" group-title="",SKY SPORTS F1 |H
-https://huhu.to/play/2435163216/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8|Referer=https://claplivehdplay.ru/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #EXTINF:-1, SKY SPORT GOLF |E
 https://huhu.to/play/2209878886/index.m3u8
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto GP HD" tvg-logo="" group-title="",SKY SPORT MOTO GP |E
