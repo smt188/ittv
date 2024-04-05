@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="discovery.hd.it" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="",Discovery HD |Ehttps://huhu.to/play/1391881073/index.m3u8#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="",Sky Cinema Comedy |H
+#EXTINF:-1 tvg-id="discovery.hd.it" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="",Discovery HD |E
+https://huhu.to/play/1391881073/index.m3u8#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="",Sky Cinema Comedy |H
 https://huhu.to/play/723356054/index.m3u8
 #EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="" group-title="",Sky INVESTIGATION |H
 https://huhu.to/play/3359589117/index.m3u8
@@ -64,6 +65,9 @@ https://huhu.to/play/1512105147/index.m3u8
 https://huhu.to/play/1395871363/index.m3u8
 #EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="" group-title="",SKY INVESTIGATION |H
 https://huhu.to/play/956716511/index.m3u8
+
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno HD" tvg-logo="" group-title="",SKY UNO |H
+https://webhdrus.onlinehdhls.ru/lb/premium881/index.m3u8|Referer=https://claplivehdplay.ru/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
 #EXTINF:-1 tvg-id="Primafila1.it" tvg-name="PrimaFila1.it" tvg-logo="",SKY PRIMAFILA 1 |E
 https://huhu.to/play/2736870250/index.m3u8
 #EXTINF:-1 tvg-name="PrimaFila1.it" tvg-logo="",SKY PRIMAFILA 1 |H
